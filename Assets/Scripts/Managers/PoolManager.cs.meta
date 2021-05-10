@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d443b8e05e5f67c45a9a616f35339fce
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _detectionStatsPoolFolder: {instanceID: 0}
+  - _detectionStatsPrefab: {fileID: 8453033274302814173, guid: e273333dd1dd668488e18167ab0d1bc2,
+      type: 3}
+  - _soulOrbsPoolFolder: {instanceID: 0}
+  - _soulOrbPrefab: {fileID: 1446543477799423468, guid: cbf40b42487fec547a65b9a120ec96c7,
+      type: 3}
+  executionOrder: -2
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
